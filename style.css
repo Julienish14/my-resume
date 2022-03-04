@@ -1,0 +1,133 @@
+body{
+    padding: 0px;
+    margin-top: 2.5vh;
+    display: flex;
+    justify-content: center;
+    align-items: center; 
+    
+}
+.part{
+    width: 80%;
+    border: 1px solid #3635356b; 
+    border-radius: 7px;
+    display: flex;
+    background-color: whitesmoke;
+}
+.partOne{
+    width: 20%; 
+    background-color:  rgb(1, 17, 53); 
+    border-top-left-radius: 7px;
+    border-bottom-left-radius: 7px;
+
+}
+.partOne div{
+    font-size: 1px;
+    display: block;
+    text-align: right;
+    color: white;
+    font-weight: bold;
+}
+.one{
+    margin: 345px 10px 0px 10px;
+}
+.two{
+    margin: 140px 10px 0px 10px;
+}
+.three{
+    margin: 165px 10px 0px 10px;
+}
+.four{
+    margin: 455px 10px 0px 10px;
+}
+.five{
+    margin: 20px 10px 0px 10px;
+}
+.partTwo{
+    width: 80%;
+    border-radius: 10px;
+    padding-left: 15px;
+
+} 
+.partTwo .bio .social-media{
+    display: flex;
+}
+.socialRight{
+    margin-left: 50px;
+}
+.socialLeft{
+}
+.icon-one{
+    display: flex;
+}
+.icon-two{
+    display: flex;
+}
+.icon-three{
+    display: flex;
+}
+.icon-four{
+    display: flex;
+}
+.icon-five{
+    display: flex;
+}
+.icon-six{
+    display: flex;
+}
+.icon-seven{
+    display: flex;
+}
+.icon-eight{
+    display: flex;
+}
+.icon-nine{
+    display: flex;    
+}
+.bio .name{
+    cursor: pointer;
+    margin-top: 40px;
+    font-size: 3em;
+    font-weight: bold;
+    color: rgb(1, 17, 53);
+}
+.name:hover{
+    color: darkgreen;
+}
+.name:active{
+    color: darkred;
+}
+.name:visited{
+    color: darkgray;
+}
+.titl{
+    font-size: 1.5em;
+    font-weight: bold;
+    color: rgb(1, 17, 53);
+    margin-left: 10px;
+}
+.sub-title{
+    font-size: 1.2em;
+    font-weight: bold;
+}
+.icon{
+    width: 30px;
+    height: 30px;
+    border-radius: 100%;
+    background-color: rgb(1, 17, 53);
+    color: white;
+    text-align: center;
+}
+.icon i{
+    margin-top: 5px;
+
+}
+.info{
+    margin-left: 5px;
+}
+
+
+
+
+
+
+
